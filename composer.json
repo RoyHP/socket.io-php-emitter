@@ -1,5 +1,5 @@
 {
-    "name": "ashiina/socket.io-emitter",
+    "name": "royhp/socket.io-emitter",
     "description": "*Maintained* A PHP implementation of socket.io-emitter",
     "homepage": "https://github.com/ashiina/socket.io-php-emitter",
     "support": {
